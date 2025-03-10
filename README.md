@@ -1,5 +1,5 @@
 Descripción del Proyecto
-Desarrolloo una API REST para gestionar una biblioteca utilizando Node.js, Express, y siguiendo el patrón MVC.
+Desarrollo una API REST para gestionar una biblioteca utilizando Node.js, Express, y siguiendo el patrón MVC.
 
 La aplicación permitirá:
 ✅Gestionar libros (crear, leer, actualizar, eliminar)

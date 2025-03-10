@@ -1,3 +1,120 @@
 [
-    
+  {
+    "id": "ec731a65-3fd1-4afc-8566-e3619787ca1b",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "pages": 324,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": "5f4d8a23-c9b7-4e85-86ee-1d9b51d2a749",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "pages": 328,
+    "genre": [
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "id": "8a3e9c72-95fb-4541-a535-7ad3e1b1e8e2",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "pages": 310,
+    "genre": [
+      "Fantasy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "b2f4c1d8-7e56-4a12-93a4-0c1d8e6fbc3a",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "pages": 180,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": "6d7e5f9a-2c1b-4d83-b0a9-3e4f2c1d8b7a",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "pages": 224,
+    "genre": [
+      "Sci-Fi",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a3b-2c1d-0e1f2a3b4c5d",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "pages": 1178,
+    "genre": [
+      "Fantasy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "7a6b5c4d-3e2f-1a0b-9c8d-7e6f5d4c3b2a",
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "year": 1969,
+    "pages": 448,
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": "9d8c7b6a-5f4e-3d2c-1b0a-9f8e7d6c5b4a",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "pages": 412,
+    "genre": [
+      "Sci-Fi",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "2e3d4c5b-6a7f-8e9d-0c1b-2a3f4d5e6c7b",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "pages": 277,
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "id": "4f5e6d7c-8b9a-0c1d-2e3f-4a5b6c7d8e9f",
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "year": 1988,
+    "pages": 338,
+    "genre": [
+      "Crime",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "id": "ffbc41da-baf6-4349-980b-a890ab61fcaa",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "pages": 450,
+    "genre": [
+      "Drama"
+    ]
+  }
 ]
